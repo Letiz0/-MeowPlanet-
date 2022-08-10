@@ -8,15 +8,15 @@ https://meowplanet.lol/Missings (部屬至Azure)
 
 使用技術：
 
-程式語言HTML/CSS/Javascript, C#
+程式語言－HTML/CSS/Javascript, C#
 
-前端框架 jQuery, Bootstrap
+前端框架－jQuery, Bootstrap
 
-Web框架 ASP.NET Core MVC(.NET 6)
+Web框架－ASP.NET Core MVC(.NET 6)
 
-資料庫存取 MSSQL, Entity Framework Core, LINQ
+資料庫存取－MSSQL, Entity Framework Core, LINQ
 
-版本控制 Git
+版本控制－Git
 
 －功能介紹－
 
