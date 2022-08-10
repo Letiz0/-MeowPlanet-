@@ -4,9 +4,14 @@
 
 https://meowplanet.lol/Missings (部屬至Azure)
 
-我在小組中負責的是「走失協尋」及「即時通訊」部分。
+負責專案中「地圖協尋(Google Maps API)」、「即時聊天(ASP.NET Core SignalR)」資料庫設計及網頁全端開發。
 
-設計上採取SPA的概念，避免頁面切換而中斷使用者體驗。
+使用技術：
+程式語言HTML/CSS/Javascript, C#
+前端框架 jQuery, Bootstrap
+Web框架 ASP.NET Core MVC(.NET 6)
+資料庫存取 MSSQL, Entity Framework Core, LINQ
+版本控制 Git
 
 －功能介紹－
 
