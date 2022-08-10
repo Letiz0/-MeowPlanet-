@@ -1,8 +1,8 @@
 # MeowPlanet
 
-專案網址：
+專案網址(部屬至Azure)：
 
-https://meowplanet.lol/Missings (部屬至Azure)
+https://meowplanet.lol/Missings (目前有資料的位置在高雄市前金區)
 
 負責專案中「地圖協尋(Google Maps API)」、「即時聊天(ASP.NET Core SignalR)」資料庫設計及網頁全端開發。
 
