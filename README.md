@@ -5,8 +5,9 @@
 https://meowplanet.lol/Missings (目前有資料的位置在高雄市前金區)
 
 可用測試帳號：
-6666@some.com        adopt@some.com
-666666               123456
+
+6666@some.com 666666           
+adopt@some.com 123456
 
 
 
