@@ -4,6 +4,12 @@
 
 https://meowplanet.lol/Missings (目前有資料的位置在高雄市前金區)
 
+可用測試帳號：
+6666@some.com        adopt@some.com
+666666               123456
+
+
+
 負責專案中「地圖協尋(Google Maps API)」、「即時聊天(ASP.NET Core SignalR)」資料庫設計及網頁全端開發。
 
 使用技術：
