@@ -1,6 +1,6 @@
 # MeowPlanet
 
-專案網址(部屬至Azure)：
+專案網址(佈署至Azure)：
 
 https://meowplanet.lol/Missings (目前有資料的位置在高雄市前金區 以及 雙北地區)
 
